@@ -1,0 +1,1 @@
+screen /dev/ttyACM0 115200,-cstop,-cs8,-parenb
